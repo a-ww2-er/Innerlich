@@ -1,2 +1,2 @@
-# Loom-SAAS
-A software as a service clone of Loom
+# Innerlich
+A software as a service 
