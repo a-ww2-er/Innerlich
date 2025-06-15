@@ -1,0 +1,30 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Unique geometric pattern representing inner layers/depth -->
+  <g transform="translate(30,30)">
+    <!-- Outer organic shape -->
+    <path d="M-20,-15 Q-25,-5 -20,5 Q-15,15 0,18 Q15,15 20,5 Q25,-5 20,-15 Q15,-25 0,-22 Q-15,-25 -20,-15 Z" 
+          fill="#8B4513" opacity="0.2"/>
+    
+    <!-- Middle layer -->
+    <path d="M-12,-9 Q-15,-3 -12,3 Q-9,9 0,11 Q9,9 12,3 Q15,-3 12,-9 Q9,-15 0,-13 Q-9,-15 -12,-9 Z" 
+          fill="#A0522D" opacity="0.4"/>
+    
+    <!-- Inner core with spiral -->
+    <path d="M-6,-4.5 Q-7.5,-1.5 -6,1.5 Q-4.5,4.5 0,5.5 Q4.5,4.5 6,1.5 Q7.5,-1.5 6,-4.5 Q4.5,-7.5 0,-6.5 Q-4.5,-7.5 -6,-4.5 Z" 
+          fill="#D2691E"/>
+    
+    <!-- Central spiral element -->
+    <path d="M0,0 Q3,-2 2,-4 Q0,-3 -2,-2 Q-3,0 -1,2 Q1,3 3,1 Q2,-1 0,0" 
+          fill="#8B4513" opacity="0.8"/>
+    
+    <!-- Connecting organic lines -->
+    <path d="M-8,8 Q0,4 8,-8" stroke="#A0522D" stroke-width="1.5" fill="none" opacity="0.6"/>
+    <path d="M8,8 Q0,-4 -8,-8" stroke="#A0522D" stroke-width="1.5" fill="none" opacity="0.6"/>
+    
+    <!-- Small accent dots -->
+    <circle cx="-15" cy="0" r="1.5" fill="#D2691E" opacity="0.7"/>
+    <circle cx="15" cy="0" r="1.5" fill="#D2691E" opacity="0.7"/>
+    <circle cx="0" cy="-15" r="1.5" fill="#D2691E" opacity="0.7"/>
+    <circle cx="0" cy="15" r="1.5" fill="#D2691E" opacity="0.7"/>
+  </g>
+</svg>
